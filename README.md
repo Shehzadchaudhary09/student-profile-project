@@ -18,3 +18,6 @@
 
 # Create Branch → Develop → Commit → Push → Pull Request → Review → Merge
 
+## Student Profile
+See [student-profile.md](student-profile.md) for the developer profile.
+
