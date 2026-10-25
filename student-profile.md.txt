@@ -1,0 +1,17 @@
+# Student Profile
+
+| Field       | Details                                   |
+|-------------|-------------------------------------------|
+| Name        | Shehzad                                   |
+| University  | Riphah International University, Lahore   |
+| Program     | BS Information Technology                 |
+| Semester    | 7                                         |
+| Focus Areas | Networking, Information Security, DBMS    |
+
+## Skills
+- Python, Flutter/Dart
+- HTML, CSS, JavaScript
+- SQL and database design
+
+## Interests
+Building secure, data-driven applications.
